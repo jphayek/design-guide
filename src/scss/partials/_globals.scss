@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    font-family: $font1;
+    background-color: $light-grey;
+}
+
+h1 {
+    font-family: $font2;
+    font-size: rem(24);
+}
+
